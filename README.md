@@ -1,6 +1,9 @@
 # bitluck_app
 bitluck show your luck 
 
+地址
+https://mqbug.github.io/bitluck_app/#/
+
 ### 简介
 
 该项目是我另外一个硬件显示币价的网页版本，用uniapp开发，有H5跟手机app版本
